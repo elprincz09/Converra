@@ -38,6 +38,7 @@ Core components:
 2. Local Encrypted Moment Storage  
 3. Bidirectional Semantic Matching  
 4. Dual Consent Identity Reveal
+5. Privacy-Minimized Coordination Layer
 
 ## How It Works
 BLE Detection → Moment Creation → Reflection → Encoding → Matching → Consent → Identity Exchange
